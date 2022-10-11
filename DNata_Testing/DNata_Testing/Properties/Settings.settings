@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DNata_Testing.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FOLDERDATASCRIPT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\QAprojects_TFS_data\DNata_Testing\DataScripts\</Value>
+    </Setting>
+    <Setting Name="SCRIPTFOLDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\GitHub\DNata_Testing\DNBata_Testing\DNata_Testing\bin\Debug\</Value>
+    </Setting>
+    <Setting Name="SCRIPTFILE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RUN_DNATAODATASOURCETESTINGR01.csv</Value>
+    </Setting>
+    <Setting Name="FOLDERFILESCRIPT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DNATADATASOURCETESTINGR01.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
